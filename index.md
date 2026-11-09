@@ -12,7 +12,7 @@ A short evidence log exploring tokenisation, context windows, temperature, and h
 
 **How to verify:** Paste the sentence into the [OpenAI Tokenizer](https://platform.openai.com/tokenizer), select the relevant model/encoding if prompted, and record the displayed token count here.
 
-**Result:** _Awaiting tokenizer measurement._
+**Result:** **53 tokens** (252 characters), as reported by the OpenAI Tokenizer for the sentence above.
 
 **What it shows:** A language model processes text as tokens, which can be whole words, parts of words, punctuation, or other text units. Token count is not necessarily the same as word count.
 
